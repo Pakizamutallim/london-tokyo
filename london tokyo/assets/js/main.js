@@ -1,0 +1,1 @@
+const texts = document.getElementsByClassName("text"); 
